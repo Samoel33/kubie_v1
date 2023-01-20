@@ -238,7 +238,7 @@ body {
         grid-template-columns: 1fr;
     }
      .over-relay{
-    background-image:linear-gradient(to left,rgba(244, 181, 181, 0.3) 50%,rgba(244, 181, 181, 0.4) ); 
+    background-image:linear-gradient(to left,rgba(244, 181, 181, 0.1),rgba(244, 181, 181, 0.1) ); 
     background-repeat: no-repeat;
     display: grid;
     grid-template-columns: repeat(2,1fr);
